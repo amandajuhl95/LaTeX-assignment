@@ -10,4 +10,5 @@
 *.gz
 *.toc
 .DS_Store
+latex-opgave.fdb_latexmk
 
