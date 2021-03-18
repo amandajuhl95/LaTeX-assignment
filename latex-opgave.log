@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.9)  18 MAR 2021 15:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.9)  18 MAR 2021 15:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -616,10 +616,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.toc)
+) (/Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.toc)
 \tf@toc=\write5
 \openout5 = `latex-opgave.toc'.
 
@@ -631,50 +628,53 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@lot=\write7
 \openout7 = `latex-opgave.lot'.
 
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 28--31
+ [1
+
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
 
  []
 
-[3] [4]
-<cat.jpg, id=50, 1304.875pt x 828.09375pt>
-File: cat.jpg Graphic file (type jpg)
-<use cat.jpg>
-Package pdftex.def Info: cat.jpg  used on input line 79.
+[2] [3]
+<Images/cat.jpg, id=47, 1304.875pt x 828.09375pt>
+File: Images/cat.jpg Graphic file (type jpg)
+<use Images/cat.jpg>
+Package pdftex.def Info: Images/cat.jpg  used on input line 78.
 (pdftex.def)             Requested size: 172.5pt x 109.46286pt.
-<tireddog.jpg, id=51, 2952.30638pt x 1659.9035pt>
-File: tireddog.jpg Graphic file (type jpg)
-<use tireddog.jpg>
-Package pdftex.def Info: tireddog.jpg  used on input line 88.
+<Images/tireddog.jpg, id=48, 2952.30638pt x 1659.9035pt>
+File: Images/tireddog.jpg Graphic file (type jpg)
+<use Images/tireddog.jpg>
+Package pdftex.def Info: Images/tireddog.jpg  used on input line 87.
 (pdftex.def)             Requested size: 155.24895pt x 87.28047pt.
-<happydog.jpg, id=52, 511.9125pt x 319.94531pt>
-File: happydog.jpg Graphic file (type jpg)
-<use happydog.jpg>
-Package pdftex.def Info: happydog.jpg  used on input line 95.
+<Images/happydog.jpg, id=49, 511.9125pt x 319.94531pt>
+File: Images/happydog.jpg Graphic file (type jpg)
+<use Images/happydog.jpg>
+Package pdftex.def Info: Images/happydog.jpg  used on input line 94.
 (pdftex.def)             Requested size: 155.24895pt x 97.02907pt.
- [5 </Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/cat.jpg> </Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/tireddog.jpg> </Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/happydog.jpg>] [6] [7] [8] [9] [10]
-Overfull \hbox (33.15195pt too wide) in paragraph at lines 222--222
+ [4 </Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/cat.jpg> </Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/tireddog.jpg> </Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/happydog.jpg>] [5] [6] [7] [8] [9]
+Overfull \hbox (33.15195pt too wide) in paragraph at lines 221--221
 []\OT1/cmr/m/n/10 Soft in-struc-tors. \OT1/cmr/m/it/10 Bach-e-lor Pro-jekt\OT1/cmr/m/n/10 . Novem-ber 2020. \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 https : / / datsoftlyngby .
  []
 
-[11] (/Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.aux)
+[10] (/Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.aux)
 Package logreq Info: Writing requests to 'latex-opgave.run.xml'.
 \openout1 = `latex-opgave.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21434 strings out of 480608
- 425663 string characters out of 5903631
- 1018425 words of memory out of 5000000
+ 21435 strings out of 480608
+ 425827 string characters out of 5903631
+ 1019490 words of memory out of 5000000
  36979 multiletter control sequences out of 15000+600000
  541999 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,10n,83p,1228b,1256s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "/Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.pdf" (11 pages, 2798711 bytes).
+Output written on "/Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.pdf" (10 pages, 2798683 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  124 words of extra memory for PDF output out of 10000 (max. 10000000)
 

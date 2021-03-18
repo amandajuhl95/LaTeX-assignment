@@ -227,7 +227,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.toc
@@ -248,18 +247,19 @@ OUTPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/L
 INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.lot
 INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.lot
 OUTPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/latex-opgave.lot
+INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/cat.jpg
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/cat.jpg
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/cat.jpg
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/tireddog.jpg
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/tireddog.jpg
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/tireddog.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/cat.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/cat.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/cat.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/tireddog.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/tireddog.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/tireddog.jpg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/happydog.jpg
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/happydog.jpg
-INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/happydog.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/happydog.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/happydog.jpg
+INPUT /Users/aamandajuhl/Documents/Software/Første semester/UFO/Anden opgave/LaTeX-assignment/Images/happydog.jpg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti7.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm

@@ -79,7 +79,7 @@
       <file>latex-opgave.bcf</file>
     </requires>
     <requires type="editable">
-      <file>latex-opgave.bib</file>
+      <file>Bibliography/latex-opgave.bib</file>
     </requires>
   </external>
 </requests>

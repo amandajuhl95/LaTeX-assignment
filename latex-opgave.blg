@@ -1,19 +1,19 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
-[1] Config.pm:307> INFO - Logfile is 'latex-opgave.blg'
-[263] biber-darwin:322> INFO - === Thu Mar 18, 2021, 11:25:32
-[325] Biber.pm:415> INFO - Reading 'latex-opgave.bcf'
-[624] Biber.pm:943> INFO - Found 4 citekeys in bib section 0
-[661] Biber.pm:4256> INFO - Processing section 0
-[662] Utils.pm:75> INFO - Globbing data source 'latex-opgave.bib'
-[663] Utils.pm:91> INFO - Globbed data source 'latex-opgave.bib' to latex-opgave.bib
-[690] Biber.pm:4455> INFO - Looking for bibtex format file 'latex-opgave.bib' for section 0
-[692] bibtex.pm:1653> INFO - LaTeX decoding ...
-[703] bibtex.pm:1471> INFO - Found BibTeX data source 'latex-opgave.bib'
-[748] Utils.pm:304> WARN - year field 'November 2020' in entry 'softwebsite' is not an integer - this will probably not sort properly.
-[803] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[804] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[804] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[804] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[838] bbl.pm:652> INFO - Writing 'latex-opgave.bbl' with encoding 'UTF-8'
-[846] bbl.pm:755> INFO - Output to latex-opgave.bbl
-[847] Biber.pm:128> INFO - WARNINGS: 1
+[0] Config.pm:307> INFO - Logfile is 'latex-opgave.blg'
+[260] biber-darwin:322> INFO - === Thu Mar 18, 2021, 15:17:23
+[306] Biber.pm:415> INFO - Reading 'latex-opgave.bcf'
+[591] Biber.pm:943> INFO - Found 4 citekeys in bib section 0
+[628] Biber.pm:4256> INFO - Processing section 0
+[629] Utils.pm:75> INFO - Globbing data source 'Bibliography/latex-opgave.bib'
+[629] Utils.pm:91> INFO - Globbed data source 'Bibliography/latex-opgave.bib' to Bibliography/latex-opgave.bib
+[651] Biber.pm:4455> INFO - Looking for bibtex format file 'Bibliography/latex-opgave.bib' for section 0
+[653] bibtex.pm:1653> INFO - LaTeX decoding ...
+[664] bibtex.pm:1471> INFO - Found BibTeX data source 'Bibliography/latex-opgave.bib'
+[752] Utils.pm:304> WARN - year field 'November 2020' in entry 'softwebsite' is not an integer - this will probably not sort properly.
+[802] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[802] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[802] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[802] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[822] bbl.pm:652> INFO - Writing 'latex-opgave.bbl' with encoding 'UTF-8'
+[828] bbl.pm:755> INFO - Output to latex-opgave.bbl
+[829] Biber.pm:128> INFO - WARNINGS: 1
