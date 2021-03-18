@@ -1,0 +1,135 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Clear}{article}{}
+      \name{author}{1}{}{%
+        {{hash=40fe61679866a0db9669c5b26601f5b0}{%
+           family={Clear},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{40fe61679866a0db9669c5b26601f5b0}
+      \strng{fullhash}{40fe61679866a0db9669c5b26601f5b0}
+      \strng{bibnamehash}{40fe61679866a0db9669c5b26601f5b0}
+      \strng{authorbibnamehash}{40fe61679866a0db9669c5b26601f5b0}
+      \strng{authornamehash}{40fe61679866a0db9669c5b26601f5b0}
+      \strng{authorfullhash}{40fe61679866a0db9669c5b26601f5b0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{When the 80/20 Rule Fails: The Downside of Being Effective}}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{%
+           family={Goossens},
+           familyi={G\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{%
+           family={Mittelbach},
+           familyi={M\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{%
+           family={Samarin},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{bibnamehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{authorbibnamehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{authornamehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{authorfullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{softwebsite}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2ae4d546556deadf3c13058b9b4c1518}{%
+           family={instructors},
+           familyi={i\bibinitperiod},
+           given={Soft},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ae4d546556deadf3c13058b9b4c1518}
+      \strng{fullhash}{2ae4d546556deadf3c13058b9b4c1518}
+      \strng{bibnamehash}{2ae4d546556deadf3c13058b9b4c1518}
+      \strng{authorbibnamehash}{2ae4d546556deadf3c13058b9b4c1518}
+      \strng{authornamehash}{2ae4d546556deadf3c13058b9b4c1518}
+      \strng{authorfullhash}{2ae4d546556deadf3c13058b9b4c1518}
+      \field{sortinit}{i}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bachelor Projekt}
+      \field{year}{November 2020}
+      \verb{urlraw}
+      \verb https://datsoftlyngby.github.io/soft2020fall/resources/bbe51cf2-bachelorProject.pdf
+      \endverb
+      \verb{url}
+      \verb https://datsoftlyngby.github.io/soft2020fall/resources/bbe51cf2-bachelorProject.pdf
+      \endverb
+    \endentry
+    \entry{knuthwebsite}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \strng{bibnamehash}{1dd533466eb3313074d496394d319407}
+      \strng{authorbibnamehash}{1dd533466eb3313074d496394d319407}
+      \strng{authornamehash}{1dd533466eb3313074d496394d319407}
+      \strng{authorfullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{urlraw}
+      \verb http://www-cs-faculty.stanford.edu/\~{}uno/abcde.html
+      \endverb
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
